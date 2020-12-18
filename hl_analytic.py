@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+#Code from C. Max Stevens
+
 '''
 The Herron and Langway analytic model.
 '''
