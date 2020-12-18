@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 #Herron and Langway (1980) analytical solution
-#Code from C. Max Stevens, University of Washington, 2016
+#C. Max Stevens, University of Washington, 2016
 
 '''
 The Herron and Langway analytic model.
